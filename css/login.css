@@ -1,0 +1,152 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+
+.img-logo{
+  margin-top: -16px;
+  width: 200px;
+  height: 50px;
+  display: block;
+  background: url('../img/gif4rosto.png') no-repeat;
+  background-size:contain;
+  color: transparent;
+}
+
+.logo{
+  margin-top: -42px;
+  padding-left: 90px;
+  font-weight: 600;
+}
+
+.logo{
+  color: #fff;
+}
+
+nav.navbar-transparente {
+  padding: 20px 0;
+  background: rgb(0, 0, 0, 0.6);
+
+}
+.navbar-brand{
+  padding: 5px 15px;
+}
+
+.divisor{
+  width: 1px;
+  height: 16px;
+  background: white;
+  margin: 16px 10px;
+}
+.navbar-inverse #barra-navegacao li a {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+
+}
+
+.navbar-inverse .navbar-nav > li > a:hover, footer #rodape .nav a:hover{
+  color: #fff;
+}
+
+
+
+/*  */
+.pag-login{
+  width: 500px;
+  margin: 25px 0 25px 200px;
+  margin-top: 200px;
+
+}
+
+.pag-login h2{
+ font-size: 40px;
+ padding: 20px;
+ font-weight: 400;
+}
+
+.form-login{
+  width: 300px;
+}
+
+fieldset{ margin: 25px 0 0 15px;}
+
+input, textarea{
+  width: 100%;
+  padding: 20px;
+  font-size: 17px;
+  text-align: center;
+}
+
+textarea{
+  height: 100px;
+  resize: none;
+}
+
+.lembrar{
+  text-align: center;
+}
+
+#btEntrar{
+  width: 150px;
+  margin: 0 0 0 70px;
+}
+
+.btn-group-lg > .btn, .btn-lg {
+ padding: 20px 16px;
+        padding-top: 10px;
+        padding-right: 16px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 1px;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        border-bottom-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+}
+
+.btn-success {
+color: #fff;
+background-color: rgb(266, 26, 71);
+background: rgb(255, 26, 71);
+
+}
+
+/* rodape */
+#rodape{
+  background: #000;
+}
+
+#rodape h3{
+  margin-top: 50px;
+  font-size: 35px;
+  font-weight: 600;
+  color: #fff;
+}
+
+#rodape h4{
+  color: #919496;
+  margin-top: 60px;
+}
+
+ #rodape, .nav a {
+  color: white;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+ #rodape .nav a:hover{
+  color: #9bf0e1;
+  background: none;
+}
+
+.item-rede-social{
+  float: right;
+}
+
+.rede-social ul{
+  margin-top: 50px;
+}
